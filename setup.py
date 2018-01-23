@@ -6,5 +6,5 @@ __import__('setuptools').setup(
     license="BSD-3-Clause",
     packages=['XXX'],
     install_requires=['aye'],
-    dependency_links=['https://github.com/deathbeds/aye/archive/tests.zip#egg=aye-0.0.1']
+    #dependency_links=['https://github.com/deathbeds/aye/archive/tests.zip#egg=aye-0.0.1']
 )
