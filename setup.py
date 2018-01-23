@@ -5,6 +5,6 @@ __import__('setuptools').setup(
     description="rest in pixels", 
     license="BSD-3-Clause",
     packages=['XXX'],
-    install_requires=['eye'],
-    dependency_links=['https://github.com/deathbeds/eye/archive/tests.zip#egg=eye-xxx']
+    install_requires=['aye'],
+    dependency_links=['https://github.com/deathbeds/aye/archive/tests.zip#egg=aye-xxx']
 )
